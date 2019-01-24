@@ -29,7 +29,7 @@ Taiwan
 
 ## Publications
 
-### Automatically Proving Mathematical Theorems with Evolutionary Algorithms and Proof Assistants
+### __Automatically Proving Mathematical Theorems with Evolutionary Algorithms and Proof Assistants__
 
 Yang, L.-A., __Liu, J.-P.\*__, Chen, C.-H., & Chen, Y.-p. (2016). Automatically Proving Mathematical Theorems with Evolutionary Algorithms and Proof Assistants.<br> In Proceedings of 2016 IEEE Congress on Evolutionary Computation (CEC 2016), part of 2016 IEEE World Congress on Computational Intelligence (IEEE WCCI 2016) (pp. 4421–4428).
 doi: [10.1109/CEC.2016.7744352](http://dx.doi.org/10.1109/CEC.2016.7744352). ([arXiv:1602.07455](https://arxiv.org/abs/1602.07455)).
@@ -37,12 +37,13 @@ doi: [10.1109/CEC.2016.7744352](http://dx.doi.org/10.1109/CEC.2016.7744352). ([a
 
 ## Work Experience
 
-### Foxconn `Dec. 2017 –`
+### __Foxconn__ `Dec. 2017 –`
 _... Engineer_<br>
 
 - ...
 
-### Private Tutor  `Sept. 2014 – Jan. 2015`
+### __Private Tutor__  `Sept. 2014 – Jan. 2015`
+
 _Part-Time High School Mathematics Lecturer_<br>
 - Taught a ninth-grader to improve his problem solving techniques in mathematic mainly in Permutation & Combination, Possibility and Statistics.
 
@@ -51,7 +52,8 @@ _Part-Time High School Mathematics Lecturer_<br>
 
 ## Teaching
 
-### Python Data Collection and Preprocessing (Python資料收集與預處理) `Aug. 2018 -`
+### __Python Data Collection and Preprocessing (Python資料收集與預處理)__ `Aug. 2018 -`
+
 ```
 Foxconn Industrial Internet
 ```
