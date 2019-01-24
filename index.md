@@ -16,7 +16,7 @@ pdf: true
 
 ### __National Chiao-Tung University (交通大學)__ `June 2012 - June 2016`
 ```
-Taiwan
+Hsinchu, Taiwan
 ```
 - B.S. in Computer Science
 - Zi-Xin (資心) Project Scholarship
@@ -24,7 +24,7 @@ Taiwan
 
 ### __National Experimental High School at Hsinchu Science Park (新竹科學園區實驗高中)__ `June 2009 - June 2012`
 ```
-Taiwan
+Hsinchu, Taiwan
 ```
 
 ## Publications
@@ -37,7 +37,7 @@ doi: [10.1109/CEC.2016.7744352](http://dx.doi.org/10.1109/CEC.2016.7744352). ([a
 
 ## Work Experience
 
-### __Foxconn__ `Dec. 2017 –`
+### __Foxconn Technology Group__ `Dec. 2017 –`
 _... Engineer_<br>
 
 - ...
@@ -52,8 +52,7 @@ _Part-Time High School Mathematics Lecturer_<br>
 
 ## Teaching
 
-### __Python Data Collection and Preprocessing (Python資料收集與預處理)__ `Aug. 2018 -`
-
+### __Python Data Collection and Preprocessing (Python 資料收集與預處理)__ `Aug. 2018 -`
 ```
 Foxconn Industrial Internet
 ```
@@ -61,7 +60,21 @@ _Assistant Lecturer_<br>
 
 - ...
 
+### __Image Recognition Practice Training (圖像辨識實戰研習)__ `Dec. 2018 -`
+```
+Foxconn Industrial Internet
+```
+_Project Advisor_<br>
 
+- ...
+
+### __Python Data Visualization (Python 資料視覺化)__ `Dec. 2018 -`
+```
+Foxconn Industrial Internet
+```
+_Assistant Lecturer_<br>
+
+- ..
 
 ## Leadership Experience
 
