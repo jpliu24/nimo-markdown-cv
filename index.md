@@ -1,11 +1,13 @@
 ---
 layout: cv
-title: 劉睿彬 "Nimo" Ni
+title: 劉睿彬 "Jui-Pin Liu"
 pdf: true
 ---
 # __Jui-Pin Liu__ (劉睿彬)
 
 <div id="webaddress">
+<i class="fi-telephone" style="margin-left:1em"></i>
+<a href="13244702668" style="margin-left:0.5em">13244702668</a>
 <i class="fi-mail" style="margin-left:1em"></i>
 <a href="ray.jp.liu@mail.foxconn.com" style="margin-left:0.5em">ray.jp.liu@mail.foxconn.com</a>
 <i class="fi-mail" style="margin-left:1em"></i>
@@ -38,16 +40,15 @@ doi: [10.1109/CEC.2016.7744352](http://dx.doi.org/10.1109/CEC.2016.7744352). ([a
 ## Work Experience
 
 ### __Foxconn Technology Group__ `Dec. 2017 –`
-_... Engineer_<br>
-
-- ...
+_Machine Learning Engineer_<br>
+- Optimize optical inspection model for products with deep learning algorithms.
+- Analyze industrial data to build prognostic health monitoring model.
+- Support teaching programs by lecturing employees in the company.
 
 ### __Private Tutor__  `Sept. 2014 – Jan. 2015`
 
 _Part-Time High School Mathematics Lecturer_<br>
-- Taught a ninth-grader to improve his problem solving techniques in mathematic mainly in Permutation & Combination, Possibility and Statistics.
-
-
+- Teach a ninth-grader to improve his problem solving techniques in mathematic mainly in Permutation & Combination, Possibility and Statistics.
 
 
 ## Teaching
@@ -57,24 +58,21 @@ _Part-Time High School Mathematics Lecturer_<br>
 Foxconn Industrial Internet
 ```
 _Assistant Lecturer_<br>
-
-- ...
+- Teach how to use NumPy, Pandas for data collection and preprocessing.
 
 ### __Image Recognition Practice Training (圖像辨識實戰研習)__ `Dec. 2018 -`
 ```
 Foxconn Industrial Internet
 ```
 _Project Advisor_<br>
-
-- ...
+- Instruct students to conduct after-class projects and help solve technical problems.
 
 ### __Python Data Visualization (Python 資料視覺化)__ `Dec. 2018 -`
 ```
 Foxconn Industrial Internet
 ```
 _Assistant Lecturer_<br>
-
-- ..
+- Teach how to use Matplotlib, Seaborn for data visualization.
 
 ## Leadership Experience
 
@@ -83,10 +81,7 @@ _Assistant Lecturer_<br>
 Taiwan
 ```
 _Division Leader (區隊長)_<br>
-Trained recruits of substitute services and managed human resources in the recruit training unit at Chenk-Kung Hill (成功嶺) Training Center
-
-## Skills
-
+- Train recruits of substitute services and manage human resources in the recruit training unit at Chenk-Kung Hill (成功嶺) Training Center.
 
 
 <!-- ### Footer
