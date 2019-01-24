@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: 劉睿彬 "Nimo" Ni
 pdf: true
 ---
-# Wode __Ni__
+# __Jui-Pin Liu__ (劉睿彬)
 
 <div id="webaddress">
 <i class="fi-mail" style="margin-left:1em"></i>
@@ -14,74 +14,66 @@ pdf: true
 
 ## Education
 
-### __Carnegie Mellon University__ `2018.9 -`
+### __National Chiao-Tung University (交通大學)__ `June 2012 - June 2016`
 ```
-Pittsburgh, PA
+Taiwan
 ```
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- B.S. in Computer Science
+- Zi-Xin (資心) Project Scholarship
+- Advised by [Ying-Ping Chen (陳穎平)](https://people.cs.nctu.edu.tw/~ypchen/)
 
-### __Columbia University__ `2016.9 - 2018.5`
+### __National Experimental High School at Hsinchu Science Park (新竹科學園區實驗高中)__ `June 2009 - June 2012`
 ```
-New York, NY
+Taiwan
 ```
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### __Dickinson College__ `2013.9 - 2016.5`
-```
-Carlisle, PA
-```
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
 
 ## Publications
 
-### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-__Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
-[[PDF](assets/dsldi.pdf)]
-[[slides](assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
+### Automatically Proving Mathematical Theorems with Evolutionary Algorithms and Proof Assistants
 
-### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
-__Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](assets/superres.pdf)]
+Yang, L.-A., __Liu, J.-P.\*__, Chen, C.-H., & Chen, Y.-p. (2016). Automatically Proving Mathematical Theorems with Evolutionary Algorithms and Proof Assistants.<br> In Proceedings of 2016 IEEE Congress on Evolutionary Computation (CEC 2016), part of 2016 IEEE World Congress on Computational Intelligence (IEEE WCCI 2016) (pp. 4421–4428).
+doi: [10.1109/CEC.2016.7744352](http://dx.doi.org/10.1109/CEC.2016.7744352). ([arXiv:1602.07455](https://arxiv.org/abs/1602.07455)).
 
-## Experience
 
-### __Carnegie Mellon University, Research Experiences for Undergraduate__  `2017.5 - 2017.8`
-_Research Assistant_<br>
-__Penrose__ is a system that automatically visualizes mathematics using two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+## Work Experience
 
-### __Columbia University, Computer Graphics and User Interfaces Lab__ `2017.1 - 2017.5`
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+### Foxconn `Dec. 2017 –`
+_... Engineer_<br>
 
-### __AsiaInfo__ `2015.6 - 2015.8`
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
+- ...
+
+### Private Tutor  `Sept. 2014 – Jan. 2015`
+_Part-Time High School Mathematics Lecturer_<br>
+- Taught a ninth-grader to improve his problem solving techniques in mathematic mainly in Permutation & Combination, Possibility and Statistics.
+
+
 
 
 ## Teaching
 
-Teaching Assistant, __Programming Languages and Translators (COMS 4115)__ `Columbia, 2017 - 2018` <br>
-Teaching Assistant, __Introduction to Java II (COMP 132)__ `Dickinson, 2016` <br>
-Peer Tutor, __Data Structures and Problem Solving (COMP 232)__ `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
+### Python Data Collection and Preprocessing (Python資料收集與預處理) `Aug. 2018 -`
+```
+Foxconn Industrial Internet
+```
+_Assistant Lecturer_<br>
+
+- ...
 
 
-## Honors & Awards
 
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society  `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+## Leadership Experience
+
+### __Substitute Service Training Center, National Conscription Agency (役政署替代役訓練班)__ `Oct. 2016 - Sept. 2017`
+```
+Taiwan
+```
+_Division Leader (區隊長)_<br>
+Trained recruits of substitute services and managed human resources in the recruit training unit at Chenk-Kung Hill (成功嶺) Training Center
+
+## Skills
+
+
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jan. 2019 -->
