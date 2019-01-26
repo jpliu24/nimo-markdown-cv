@@ -20,6 +20,7 @@ pdf: true
 ```
 Hsinchu, Taiwan
 ```
+
 - B.S. in Computer Science
 - Zi-Xin (資心) Project Scholarship
 - Advised by [Ying-Ping Chen (陳穎平)](https://people.cs.nctu.edu.tw/~ypchen/)
@@ -33,21 +34,27 @@ Hsinchu, Taiwan
 
 ### __Automatically Proving Mathematical Theorems with Evolutionary Algorithms and Proof Assistants__
 
-Yang, L.-A., __Liu, J.-P.\*__, Chen, C.-H., & Chen, Y.-p. (2016). Automatically Proving Mathematical Theorems with Evolutionary Algorithms and Proof Assistants.<br> In Proceedings of 2016 IEEE Congress on Evolutionary Computation (CEC 2016), part of 2016 IEEE World Congress on Computational Intelligence (IEEE WCCI 2016) (pp. 4421–4428).
+Yang, L.-A., __Liu, J.-P.__, Chen, C.-H., & Chen, Y.-p. (2016). Automatically Proving Mathematical Theorems with Evolutionary Algorithms and Proof Assistants. In Proceedings of 2016 IEEE Congress on Evolutionary Computation (CEC 2016), part of 2016 IEEE World Congress on Computational Intelligence (IEEE WCCI 2016) (pp. 4421–4428).
 doi: [10.1109/CEC.2016.7744352](http://dx.doi.org/10.1109/CEC.2016.7744352). ([arXiv:1602.07455](https://arxiv.org/abs/1602.07455)).
 
 
 ## Work Experience
 
 ### __Foxconn Technology Group__ `Dec. 2017 –`
-_Machine Learning Engineer_<br>
+```
+Shenzhen, China
+```
+
+_Machine Learning Engineer_
+
 - Optimize optical inspection model for products with deep learning algorithms.
 - Analyze industrial data to build prognostic health monitoring model.
 - Support teaching programs by lecturing employees in the company.
 
 ### __Private Tutor__  `Sept. 2014 – Jan. 2015`
 
-_Part-Time High School Mathematics Lecturer_<br>
+_Part-Time High School Mathematics Lecturer_
+
 - Teach a ninth-grader to improve his problem solving techniques in mathematic mainly in Permutation & Combination, Possibility and Statistics.
 
 
@@ -57,30 +64,38 @@ _Part-Time High School Mathematics Lecturer_<br>
 ```
 Foxconn Industrial Internet
 ```
-_Assistant Lecturer_<br>
+
+_Assistant Lecturer_
+
 - Teach how to use NumPy, Pandas for data collection and preprocessing.
 
 ### __Image Recognition Practice Training (圖像辨識實戰研習)__ `Dec. 2018 -`
 ```
 Foxconn Industrial Internet
 ```
-_Project Advisor_<br>
+
+_Project Advisor_
+
 - Instruct students to conduct after-class projects and help solve technical problems.
 
 ### __Python Data Visualization (Python 資料視覺化)__ `Dec. 2018 -`
 ```
 Foxconn Industrial Internet
 ```
-_Assistant Lecturer_<br>
+
+_Assistant Lecturer_
+
 - Teach how to use Matplotlib, Seaborn for data visualization.
 
 ## Leadership Experience
 
 ### __Substitute Service Training Center, National Conscription Agency (役政署替代役訓練班)__ `Oct. 2016 - Sept. 2017`
 ```
-Taiwan
+Taichung, Taiwan
 ```
-_Division Leader (區隊長)_<br>
+
+_Division Leader (區隊長)_
+
 - Train recruits of substitute services and manage human resources in the recruit training unit at Chenk-Kung Hill (成功嶺) Training Center.
 
 
