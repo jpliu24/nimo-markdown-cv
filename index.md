@@ -62,7 +62,7 @@ _Part-Time High School Mathematics Lecturer_
 
 ### __Python Data Collection and Preprocessing (Python 資料收集與預處理)__ `Aug. 2018 -`
 ```
-Foxconn Industrial Internet
+Foxconn Industrial Internet Academy
 ```
 
 _Assistant Lecturer_
@@ -71,7 +71,7 @@ _Assistant Lecturer_
 
 ### __Image Recognition Practice Training (圖像辨識實戰研習)__ `Dec. 2018 -`
 ```
-Foxconn Industrial Internet
+Foxconn Industrial Internet Academy
 ```
 
 _Project Advisor_
@@ -80,7 +80,7 @@ _Project Advisor_
 
 ### __Python Data Visualization (Python 資料視覺化)__ `Dec. 2018 -`
 ```
-Foxconn Industrial Internet
+Foxconn Industrial Internet Academy
 ```
 
 _Assistant Lecturer_
