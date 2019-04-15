@@ -59,7 +59,7 @@ _Responsible For_
 - Data engineering, feature engineering and deep learning modeling.
 
 _Tools Used_
-- NumPy, Matplotlib, OpenCV, Tensorflow, CNN deep learning models and other image processing packages.
+- NumPy, Matplotlib, Tensorflow, CNN deep learning models and other image processing packages.
 
 ### __CAA Mobile Phone Defect Detection Project（CAA 手機瑕疵檢測專案）__ `Jul. 2018 – Oct. 2018`
 _Responsible For_
