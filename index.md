@@ -3,7 +3,7 @@ layout: cv
 title: 劉睿彬 "Jui-Pin Liu"
 pdf: true
 ---
-# __Jui-Pin Liu__ (劉睿彬)
+# __Jui-Pin Liu__（劉睿彬）
 
 <div id="webaddress">
 <i class="fi-telephone" style="margin-left:1em"></i>
@@ -16,16 +16,16 @@ pdf: true
 
 ## Education
 
-### __National Chiao-Tung University (交通大學)__ `June 2012 - June 2016`
+### __National Chiao-Tung University（交通大學）__ `June 2012 - June 2016`
 ```
 Hsinchu, Taiwan
 ```
 
 - B.S. in Computer Science
 - Zi-Xin (資心) Project Scholarship
-- Advised by [Ying-Ping Chen (陳穎平)](https://people.cs.nctu.edu.tw/~ypchen/)
+- Advised by [Ying-Ping Chen（陳穎平）](https://people.cs.nctu.edu.tw/~ypchen/)
 
-### __National Experimental High School at Hsinchu Science Park (新竹科學園區實驗高中)__ `June 2009 - June 2012`
+### __National Experimental High School at Hsinchu Science Park（新竹科學園區實驗高中）__ `June 2009 - June 2012`
 ```
 Hsinchu, Taiwan
 ```
@@ -46,7 +46,6 @@ Shenzhen, China
 ```
 
 _Machine Learning Engineer_
-
 - Optimize optical inspection model for products with deep learning algorithms.
 - Analyze industrial data to build prognostic health monitoring model.
 - Support teaching programs by lecturing employees in the company.
@@ -54,51 +53,56 @@ _Machine Learning Engineer_
 ### __Private Tutor__  `Sept. 2014 – Jan. 2015`
 
 _Part-Time High School Mathematics Lecturer_
-
 - Teach a ninth-grader to improve his problem solving techniques in mathematic mainly in Permutation & Combination, Possibility and Statistics.
 
 
 ## Teaching
 
-### __Python Data Collection and Preprocessing (Python 資料收集與預處理)__ `Aug. 2018 -`
+### __Python Data Collection and Preprocessing（Python 資料收集與預處理）__ `Aug. 2018 -`
 ```
 Foxconn Industrial Internet Academy
 ```
-
 _Assistant Lecturer_
-
 - Teach how to use NumPy, Pandas for data collection and preprocessing.
 
-### __Image Recognition Practice Training (圖像辨識實戰研習)__ `Dec. 2018 -`
+### __Image Recognition Practice Training（圖像辨識實戰研習）__ `Dec. 2018 -`
 ```
 Foxconn Industrial Internet Academy
 ```
-
 _Project Advisor_
-
 - Instruct students to conduct after-class projects and help solve technical problems.
 
-### __Python Data Visualization (Python 資料視覺化)__ `Dec. 2018 -`
+### __Python Data Visualization（Python 資料視覺化）__ `Dec. 2018 -`
 ```
 Foxconn Industrial Internet Academy
 ```
-
 _Assistant Lecturer_
-
 - Teach how to use Matplotlib, Seaborn for data visualization.
+
+### __Feature Engineering（數據特徵工程）__ `Apr. 2019 -`
+```
+Foxconn Industrial Internet Academy
+```
+_Assistant Lecturer_
+- Teach how to engineer features and build simpler, faster and more reliable machine learning models.
+
+### __Machine Learning（機器學習）__ `Apr. 2019 -`
+```
+Foxconn Industrial Internet Academy
+```
+_Assistant Lecturer_
+- Introduce the basic concepts of machine learning and its classical algorithms.
 
 ## Leadership Experience
 
-### __Substitute Service Training Center, National Conscription Agency (役政署替代役訓練班)__ `Oct. 2016 - Sept. 2017`
+### __Substitute Service Training Center, National Conscription Agency（役政署替代役訓練班）__ `Oct. 2016 - Sept. 2017`
 ```
 Taichung, Taiwan
 ```
 
-_Division Leader (區隊長)_
-
-- Train recruits of substitute services and manage human resources in the recruit training unit at Chenk-Kung Hill (成功嶺) Training Center.
+_Division Leader（區隊長）_
+- Train recruits of substitute services and manage human resources in the recruit training unit at Chenk-Kung Hill（成功嶺）Training Center.
 
 
 <!-- ### Footer
-
-Last updated: Jan. 2019 -->
+Last updated: Apr. 2019 -->
