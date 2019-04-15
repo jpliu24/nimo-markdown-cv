@@ -55,11 +55,21 @@ _Part-Time High School Mathematics Lecturer_
 ## Project Experience
 ### __Shen-Chao Display Panel Defect Detection Project（深超面板瑕疵檢測專案）__ `Mar. 2018 – May. 2018`
 
-- Responsible for data engineering, feature engineering and deep learning modeling.
+_Responsible For_
+- Data engineering, feature engineering and deep learning modeling.
+
+_Tools Used_
+- NumPy, Matplotlib, OpenCV, Tensorflow, CNN deep learning models and other image processing packages.
 
 ### __CAA Mobile Phone Defect Detection Project（CAA 手機瑕疵檢測專案）__ `Jul. 2018 – Oct. 2018`
+_Responsible For_
+- Data engineering, feature engineering, deep learning modeling and system integration testing.
 
-- Responsible for data engineering, feature engineering, deep learning modeling and system integration testing.
+_Tools Used_
+- NumPy, Matplotlib, Tensorflow, Keras, R-CNN deep learning models and other image processing packages.
+
+_Project Effectiveness_
+- In one of the photo data sets, the accuracy reached up to 85%, and the mAP reached more than 60%.
 
 ## Teaching
 ### __Python Data Collection and Preprocessing（Python 資料收集與預處理）__ `Aug. 2018 -`
