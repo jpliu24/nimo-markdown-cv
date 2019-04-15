@@ -15,7 +15,6 @@ pdf: true
 </div>
 
 ## Education
-
 ### __National Chiao-Tung University（交通大學）__ `June 2012 - June 2016`
 ```
 Hsinchu, Taiwan
@@ -31,7 +30,6 @@ Hsinchu, Taiwan
 ```
 
 ## Publications
-
 ### __Automatically Proving Mathematical Theorems with Evolutionary Algorithms and Proof Assistants__
 
 Yang, L.-A., __Liu, J.-P.__, Chen, C.-H., & Chen, Y.-p. (2016). Automatically Proving Mathematical Theorems with Evolutionary Algorithms and Proof Assistants. In Proceedings of 2016 IEEE Congress on Evolutionary Computation (CEC 2016), part of 2016 IEEE World Congress on Computational Intelligence (IEEE WCCI 2016) (pp. 4421–4428).
@@ -39,7 +37,6 @@ doi: [10.1109/CEC.2016.7744352](http://dx.doi.org/10.1109/CEC.2016.7744352). ([a
 
 
 ## Work Experience
-
 ### __Foxconn Technology Group__ `Dec. 2017 –`
 ```
 Shenzhen, China
@@ -55,9 +52,16 @@ _Machine Learning Engineer_
 _Part-Time High School Mathematics Lecturer_
 - Teach a ninth-grader to improve his problem solving techniques in mathematic mainly in Permutation & Combination, Possibility and Statistics.
 
+## Project Experience
+### __Shen-Chao Display Panel Defect Detection Project（深超面板瑕疵檢測專案）__ `Mar. 2018 – May. 2018`
+
+- Responsible for data engineering, feature engineering and deep learning modeling.
+
+### __CAA Mobile Phone Defect Detection Project（CAA 手機瑕疵檢測專案）__ `Jul. 2018 – Oct. 2018`
+
+- Responsible for data engineering, feature engineering, deep learning modeling and system integration testing.
 
 ## Teaching
-
 ### __Python Data Collection and Preprocessing（Python 資料收集與預處理）__ `Aug. 2018 -`
 ```
 Foxconn Industrial Internet Academy
@@ -94,7 +98,6 @@ _Assistant Lecturer_
 - Introduce the basic concepts of machine learning and its classical algorithms.
 
 ## Leadership Experience
-
 ### __Substitute Service Training Center, National Conscription Agency（役政署替代役訓練班）__ `Oct. 2016 - Sept. 2017`
 ```
 Taichung, Taiwan
@@ -102,7 +105,6 @@ Taichung, Taiwan
 
 _Division Leader（區隊長）_
 - Train recruits of substitute services and manage human resources in the recruit training unit at Chenk-Kung Hill（成功嶺）Training Center.
-
 
 <!-- ### Footer
 Last updated: Apr. 2019 -->
