@@ -14,6 +14,10 @@ pdf: true
 <a href="ray0924@gmail.com" style="margin-left:0.5em">ray0924@gmail.com</a>
 </div>
 
+## Research Interest
+
+Machine Learning, Deep Learning, Computer Vision and Object Detection.
+
 ## Education
 ### __National Chiao-Tung University（交通大學）__ `June 2012 - June 2016`
 ```
@@ -29,7 +33,7 @@ Hsinchu, Taiwan
 Hsinchu, Taiwan
 ```
 
-## Publications
+## Publication
 ### __Automatically Proving Mathematical Theorems with Evolutionary Algorithms and Proof Assistants__
 
 Yang, L.-A., __Liu, J.-P.__, Chen, C.-H., & Chen, Y.-p. (2016). Automatically Proving Mathematical Theorems with Evolutionary Algorithms and Proof Assistants. In Proceedings of 2016 IEEE Congress on Evolutionary Computation (CEC 2016), part of 2016 IEEE World Congress on Computational Intelligence (IEEE WCCI 2016) (pp. 4421–4428).
@@ -107,6 +111,13 @@ Foxconn Industrial Internet Academy
 _Assistant Lecturer_
 - Introduce the basic concepts of machine learning and its classical algorithms.
 
+### __Introducing AI Frameworks（AI框架簡介）__ `Apr. 2019 -`
+```
+Foxconn Industrial Internet Academy
+```
+_Assistant Lecturer_
+- Introduce the basic concepts and operation techniques of Keras.
+
 ## Leadership Experience
 ### __Substitute Service Training Center, National Conscription Agency（役政署替代役訓練班）__ `Oct. 2016 - Sept. 2017`
 ```
@@ -115,6 +126,12 @@ Taichung, Taiwan
 
 _Division Leader（區隊長）_
 - Train recruits of substitute services and manage human resources in the recruit training unit at Chenk-Kung Hill（成功嶺）Training Center.
+
+## Other Achievement
+### “Distributed Processing in Smart Manufacturing” by Dr. Hwang Shin Hwan
+
+_Oral Interpreter_
+- Act as the interpreter of a technical seminar, translating English paragraphs into Chinese.
 
 <!-- ### Footer
 Last updated: Apr. 2019 -->
