@@ -128,7 +128,7 @@ _Division Leader（區隊長）_
 - Train recruits of substitute services and manage human resources in the recruit training unit at Chenk-Kung Hill（成功嶺）Training Center.
 
 ## Other Achievement
-### “Distributed Processing in Smart Manufacturing” by Dr. Hwang Shin Hwan
+### __“Distributed Processing in Smart Manufacturing” by Dr. Hwang Shin Hwan__ `Mar. 2019`
 
 _Oral Interpreter_
 - Act as the interpreter of a technical seminar, translating English paragraphs into Chinese.
