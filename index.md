@@ -18,20 +18,17 @@ Machine Learning, Deep Learning, Computer Vision.
 
 ## Skills
 
-#### Programming
-
+**Programming**
 - Python (familiar in numpy, pandas, etc.)
 - Machine learning framework (familiar in keras, tensorflow, etc.)
 - C++
 
-#### Data Analysis and Machine Learning
-
+**Data Analysis and Machine Learning**
 - Exploratory data analysis & data mining
 - Feature engineering
 - Prediction modeling (familiar in XGBoost, LASSO, etc.)
 
-#### Deep Learning
-
+**Deep Learning**
 - Component selection optimization (multilabel classification)
 - Predictive maintenance & anomaly detection with deep neural network
 - Image (defect) classification (segmentation) with convolutional neural network
@@ -41,7 +38,7 @@ Machine Learning, Deep Learning, Computer Vision.
 ```
 Shenzhen, China
 ```
-#### _Machine Learning Engineer_
+_Machine Learning Engineer_
 - Optimize optical inspection model for products with deep learning algorithms.
 - Analyze industrial data to build prognostic health monitoring model.
 - Support teaching programs by lecturing employees in the company.
@@ -70,28 +67,28 @@ _Project Effectiveness_
 ```
 Foxconn Industrial Internet Academy
 ```
-####  _Assistant Lecturer_
+_Assistant Lecturer_
 - Teach how to use NumPy, Pandas for data collection and preprocessing.
 
 ### __Python Data Visualization（Python 資料視覺化）__ `Dec. 2018`
 ```
 Foxconn Industrial Internet Academy
 ```
-####  _Assistant Lecturer_
+_Assistant Lecturer_
 - Teach how to use Matplotlib, Seaborn for data visualization.
 
 ### __Feature Engineering（數據特徵工程）__ `Apr. 2019`
 ```
 Foxconn Industrial Internet Academy
 ```
-####  _Assistant Lecturer_
+_Assistant Lecturer_
 - Teach how to engineer features and build simpler, faster and more reliable machine learning models.
 
 ### __Introduction to Machine Learning（機器學習導論）__ `Apr. 2019`
 ```
 Foxconn Industrial Internet Academy
 ```
-#### _Assistant Lecturer_
+_Assistant Lecturer_
 - Introduce the basic concepts of machine learning and its classical algorithms.
 
 ## Education
@@ -119,13 +116,13 @@ doi: [10.1109/CEC.2016.7744352](http://dx.doi.org/10.1109/CEC.2016.7744352). ([a
 ```
 Taichung, Taiwan
 ```
-#### _Division Leader（區隊長）_
+_Division Leader（區隊長）_
 - Train recruits of substitute services and manage human resources in the recruit training unit at Chenk-Kung Hill（成功嶺）Training Center.
 
 ## Other Achievement
 ### __“Distributed Processing in Smart Manufacturing” by Dr. Hwang Shin Hwan__ `Mar. 2019`
 
-#### _Oral Interpreter_
+_Oral Interpreter_
 - Act as the interpreter of a technical seminar, translating English paragraphs into Chinese.
 
 <!-- ### Footer
