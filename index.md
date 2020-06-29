@@ -3,7 +3,7 @@ layout: cv
 title: 劉睿彬 " Raymond Liu"
 pdf: true
 ---
-# __Raymond Liu__（劉睿彬）
+# __Rui-Bin Liu__（劉睿彬）
 
 <div id="webaddress">
 <i class="fi-telephone" style="margin-left:1em"></i>
@@ -12,6 +12,7 @@ pdf: true
 <a href="ray0924@gmail.com" style="margin-left:0.5em">ray0924@gmail.com</a>
 </div>
 
+
 ## Research Interest
 
 Machine Learning, Deep Learning, Computer Vision.
@@ -19,16 +20,15 @@ Machine Learning, Deep Learning, Computer Vision.
 ## Skills
 
 **Programming**
-- Python (familiar in numpy, pandas, etc.)
+- Python, C++, HTML, CSS, JavaScript
 - Machine learning framework (familiar in keras, tensorflow, etc.)
-- C++
 
 **Data Analysis and Machine Learning**
-- Exploratory data analysis & data mining
-- Feature engineering
+- Exploratory data analysis & data mining, feature engineering
 - Prediction modeling (familiar in XGBoost, LASSO, etc.)
 
 **Deep Learning**
+
 - Component selection optimization (multilabel classification)
 - Predictive maintenance & anomaly detection with deep neural network
 - Image (defect) classification (segmentation) with convolutional neural network
@@ -52,7 +52,7 @@ _Responsible For_
 _Tools Used_
 - NumPy, Matplotlib, Tensorflow, CNN deep learning models and other image processing packages.
 
-### __Mobile Phone Defect Detection Project（手機瑕疵檢測專案）__ `Jul. 2018 – Oct. 2018`
+### __Mobile Phone Defect Detection Project（手機瑕疵檢測專案）__ `Jul. 2018 – Dec. 2018`
 _Responsible For_
 - Data engineering, deep learning modeling and system integration testing.
 
@@ -61,6 +61,18 @@ _Tools Used_
 
 _Project Effectiveness_
 - In one of the photo data sets, the accuracy reached up to 85%, and the mAP reached more than 60%.
+
+### __Web Crawler of News and Public Opinion（新聞輿論網路爬蟲系統）__ `Jun. 2019 – Aug. 2019`
+
+_Responsible For_
+- Implementing customized crawler and parser for the target websites.
+
+_Tools Used_
+- Python web crawler libraries: BeautifulSoup and Selenium.
+
+_Project Effectiveness_
+- Systematically collects articles and discussion data from major news websites, forums, and blogs in Taiwan, and imports them into a database for archiving.
+
 
 ## Teaching
 ### __Python Data Collection and Preprocessing（Python 資料收集與預處理）__ `Aug. 2018 - Feb. 2019`
@@ -123,7 +135,7 @@ _Division Leader（區隊長）_
 ### __“Distributed Processing in Smart Manufacturing” by Dr. Hwang Shin Hwan__ `Mar. 2019`
 
 _Oral Interpreter_
-- Act as the interpreter of a technical seminar, translating English paragraphs into Chinese.
+- Act as the interpreter of a technical seminar, consecutive interpreting English paragraphs into Chinese.
 
 <!-- ### Footer
-Last updated: Sept. 2019 -->
+Last updated: May. 2020 -->
